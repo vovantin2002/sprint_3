@@ -1,0 +1,15 @@
+{
+  "name": "fe",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.4",
+    "mysql2": "^3.7.0"
+  }
+}
